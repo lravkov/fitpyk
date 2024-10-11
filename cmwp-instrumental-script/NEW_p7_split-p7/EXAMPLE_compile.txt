@@ -1,0 +1,5 @@
+#pearson
+gcc pearson7_instr_NEW.c -o pearson7_instr_NEW -lm
+
+#split pearson 
+gcc split_pearson7_instr_NEW.c -o split_pearson7_instr_NEW -lm
