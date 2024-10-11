@@ -1,0 +1,7 @@
+lab6_1:
+	only look at file 10
+
+dt_hu_1:
+	7, 22, 25, 27 > low intensity
+	13 > weird noise at first reflections
+	12 > weird noise at last reflections
