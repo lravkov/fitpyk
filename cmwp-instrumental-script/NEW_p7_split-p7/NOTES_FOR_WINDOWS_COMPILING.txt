@@ -1,0 +1,6 @@
+install gcc: https://jmeubank.github.io/tdm-gcc/
+add it to your path (the bin folder of what gets installed)
+navigate to the folder where your C script is written in powershell
+gcc <scriptName.c> --output <outputApplicationName>
+now you can call the <outputApplicationName> from powershell or as a bash script
+.\<outputApplicationName> <inputParams>
