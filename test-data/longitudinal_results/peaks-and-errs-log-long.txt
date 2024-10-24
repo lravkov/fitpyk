@@ -1,0 +1,32 @@
+peaks, err
+45-5, 0.02
+5-6, 0.02
+7-825, 0.05
+88-94, 0.02
+94-98, 0.02
+107-114, 0.03
+117-122, 0.035
+122-128, 0.05
+
+extra peaks that were fit but we will not use for mWH analysis:
+132-139, 0.02
+14-146, 0.02
+
+-----------------------------------------------------------------------
+using Anizc we can determine the Ch00:
+
+http://metal.elte.hu/anizc/program-cubic.html
+
+c11 = 170.2
+c12 = 114.9
+c44 = 61.0
+
+g* = 1,0,0
+
+edge <1,1,1>{1,1,0} type dislocations -> scroll to bottom -> the average orientation factor C : 0.274683
+screw <1,1,1> type dislocations ->       scroll to bottom -> the average orientation factor C : 0.292993
+avg = 0.283838
+
+q_edge_interp: 1.32 +/- 0.08
+q_screw: 2.13 +/- 0.06
+
