@@ -1,0 +1,13 @@
+peaks, err
+45-5, 0.02
+5-6, 0.02
+7-825, 0.02
+88-94, 0.02
+94-98, 0.02
+107-114, 0.04
+117-122, 0.02
+122-128, 0.02
+
+extra peaks that were fit but we will not use for mWH analysis:
+132-139, 0.02
+14-146, 0.02
